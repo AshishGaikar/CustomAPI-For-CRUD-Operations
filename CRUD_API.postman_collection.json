@@ -41,7 +41,7 @@
         ],
         "body": {
           "mode": "raw",
-          "raw": "{\n  \"name\": \"John Doe\",\n  \"email\": \"john@example.com\",\n  \"age\": 25,\n  \"city\": \"New York\"\n}"
+          "raw": "{\n  \"name\": \"Alice Johnson\",\n  \"email\": \"alice@example.com\",\n  \"age\": 28,\n  \"city\": \"San Francisco\"\n}"
         },
         "url": {
           "raw": "{{baseUrl}}/api/users",
@@ -87,7 +87,8 @@
   "variable": [
     {
       "key": "baseUrl",
-      "value": "https://crud-api-assignment6.onrender.com"
+      "value": "http://localhost:3000",
+      "description": "Change to https://crud-api-assignment6.onrender.com for deployed version"
     },
     {
       "key": "userId",
