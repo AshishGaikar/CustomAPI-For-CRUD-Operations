@@ -87,7 +87,7 @@
   "variable": [
     {
       "key": "baseUrl",
-      "value": "https://customapi-for-crud-operations.onrender.com/",
+      "value": "https://customapi-for-crud-operations-1.onrender.com/",
       "description": "Change to https://crud-api-assignment6.onrender.com for deployed version"
     },
     {
